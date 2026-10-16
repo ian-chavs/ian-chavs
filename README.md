@@ -25,7 +25,7 @@
 
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ian-chavs/ian-chavs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ian-chavs/ian-chavs/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ian-chavs/ian-chavs/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ian-chavs/ian-chavs/output/github-contribution-grid-snake-dark.svg?v=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ian-chavs/ian-chavs/output/github-contribution-grid-snake.svg?v=dark">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ian-chavs/ian-chavs/output/github-contribution-grid-snake-dark.svg?v=dark">
 </picture>
